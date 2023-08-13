@@ -131,6 +131,6 @@ class TestingFinAccel {
 
 	@Then ("Successfull add to cart and see cart")
 	def successATC() {
-		WebUI.click(findTestObject('Object Repository/Page_Detail/button_Lihat Tas Belanja'))
+		WebUI.click(findTestObject('Object Repository/Page_Detail/button_Lihat Tas Belanja'))	
 	}
 }
