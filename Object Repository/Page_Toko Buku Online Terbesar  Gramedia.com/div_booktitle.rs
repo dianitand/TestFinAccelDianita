@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_booktitle</name>
+   <tag></tag>
+   <elementGuidId>1fc5fec5-bfe7-4105-84e9-08617e117a56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.list-title</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;results-container&quot;]/gm-product-results/div[1]/div/gm-product-list[1]/div/a/div/div[2]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83d8623b-2529-446d-95ee-9742a4c16d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-title</value>
+      <webElementGuid>bce9e4e6-cc19-4b8f-8e82-f372932f47e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>One Piece 100</value>
+      <webElementGuid>fb03b2a6-e90a-4822-8747-418e03834d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;results-container&quot;)/gm-product-results[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;product-container ng-star-inserted&quot;]/div[@class=&quot;product-list-grid&quot;]/gm-product-list[@class=&quot;card-list ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/a[1]/div[@class=&quot;entities-list&quot;]/div[@class=&quot;content-wrap&quot;]/div[@class=&quot;list-title&quot;]</value>
+      <webElementGuid>8d0f15f9-cf34-4bfc-a751-af6515dcc7e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='results-container']/gm-product-results/div/div/gm-product-list/div/a/div/div[2]/div</value>
+      <webElementGuid>148c5b6f-3980-4584-a674-cba38168bfc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eiichiro Oda'])[1]/following::div[1]</value>
+      <webElementGuid>8bbcbc6b-6c5b-4490-8217-e847245d4791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'one piece 100', '&quot;', '')])[1]/following::div[7]</value>
+      <webElementGuid>3f25f765-1fe3-4711-bd9b-7b46ee742d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eiichiro Oda'])[2]/preceding::div[5]</value>
+      <webElementGuid>41048c45-dce0-4100-8acc-ec57864b5c85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One Piece 83'])[1]/preceding::div[5]</value>
+      <webElementGuid>e784e683-0ada-4339-b13c-b2c1b75a17c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='One Piece 100']/parent::*</value>
+      <webElementGuid>2927e003-c427-4f32-be3e-9d9d6f0517c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>71a62140-c1e7-4960-ad9f-879bee9f5300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'One Piece 100' or . = 'One Piece 100')]</value>
+      <webElementGuid>dfd8b9e3-2e69-480e-9689-f1b6b4325268</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

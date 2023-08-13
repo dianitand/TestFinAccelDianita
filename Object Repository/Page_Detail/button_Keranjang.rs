@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Keranjang</name>
+   <tag></tag>
+   <elementGuidId>a111d7f6-faa6-464d-a640-3da628a19f27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky-quantity']/div/div/gm-button-add-to-cart/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.cart-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>047cfd8f-715c-4bf9-9076-d4c5679f6927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-btn</value>
+      <webElementGuid>bcc4bb35-46af-44d6-b166-c174ee0dfb89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Keranjang </value>
+      <webElementGuid>8da2f4f4-b798-490d-aa0c-8b425e860db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sticky-quantity&quot;)/div[@class=&quot;row-product&quot;]/div[@class=&quot;stock-section ng-star-inserted&quot;]/gm-button-add-to-cart[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;button-stock&quot;]/button[@class=&quot;cart-btn&quot;]</value>
+      <webElementGuid>c3057d4d-8d38-4896-bde2-02b79b421a0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sticky-quantity']/div/div/gm-button-add-to-cart/div/div/div/button</value>
+      <webElementGuid>b0e65216-377d-4c2d-bf83-da6062eb6119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 55.000'])[3]/following::button[1]</value>
+      <webElementGuid>90c06e11-9fb3-41fa-86c7-92aeb833226a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingin beli berapa?'])[1]/following::button[3]</value>
+      <webElementGuid>6f2f74bc-cd9a-48cb-ae77-4b4689055f1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Sekarang'])[1]/preceding::button[1]</value>
+      <webElementGuid>cec878e9-0b34-4e8b-8a80-8aa24a8ad897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kejutan spesial dari kami hanya untukmu'])[1]/preceding::button[2]</value>
+      <webElementGuid>1d607bbc-e111-4ec6-97e9-6c065fe001e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keranjang']/parent::*</value>
+      <webElementGuid>08eae1ff-5d72-4ca7-978e-b5e1111b09df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//gm-button-add-to-cart/div/div/div/button</value>
+      <webElementGuid>4b90244d-4cee-49bb-a9b1-84193f5cad36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Keranjang ' or . = ' Keranjang ')]</value>
+      <webElementGuid>5ed09a95-f966-413b-a2e8-2b3c119dfa40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

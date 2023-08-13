@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Soft Cover</name>
+   <tag></tag>
+   <elementGuidId>291c96c0-f0f6-4ca3-9dcd-f56ed88546c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='col-info']/div/div[2]/div/div[4]/gm-product-view-format/div/div[2]/div/div/div/div/button/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.format-type</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f05088bc-8ffc-419c-aff0-27df835390e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>format-type</value>
+      <webElementGuid>4e54c300-c995-46e2-8532-b00d989d60bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Soft Cover </value>
+      <webElementGuid>69c82930-ee1f-4acd-9d41-adf348104120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;col-info&quot;)/div[@class=&quot;row-product&quot;]/div[@class=&quot;col-md-8 p-3&quot;]/div[@class=&quot;row-product&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/gm-product-view-format[1]/div[@class=&quot;my-3 format-section ng-star-inserted&quot;]/div[@class=&quot;format-carousel flickity-enabled is-draggable ng-star-inserted&quot;]/div[@class=&quot;flickity-viewport&quot;]/div[@class=&quot;flickity-slider&quot;]/div[@class=&quot;carousel-cell book active is-selected ng-star-inserted&quot;]/div[@class=&quot;format-item&quot;]/button[@class=&quot;mt-10&quot;]/div[@class=&quot;section-format&quot;]/div[1]/p[@class=&quot;format-type&quot;]</value>
+      <webElementGuid>88bfb3d3-c059-4769-b654-32e502d92a9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='col-info']/div/div[2]/div/div[4]/gm-product-view-format/div/div[2]/div/div/div/div/button/div/div/p</value>
+      <webElementGuid>340562da-a7f6-4cca-93b1-03d00eeb55bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Format Buku Yang Tersedia'])[1]/following::p[1]</value>
+      <webElementGuid>0fe9fc9e-f037-4b63-a0b0-001399fe8d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Buku'])[1]/following::p[1]</value>
+      <webElementGuid>56e3ac71-bb2b-48cd-b152-f9bf3e1db634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mulai dari'])[1]/preceding::p[1]</value>
+      <webElementGuid>4f31e99f-a127-43fc-a908-d852db611580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 50.000'])[1]/preceding::p[1]</value>
+      <webElementGuid>56daac31-d259-460f-ac54-caa07d99ee22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Soft Cover']/parent::*</value>
+      <webElementGuid>6436ad61-3e24-4440-90cc-bacb5c5371b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>7a5af9c6-2dda-4e59-ba3d-b21d3096e92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Soft Cover ' or . = ' Soft Cover ')]</value>
+      <webElementGuid>a4d6394d-31ce-4eac-a70a-089945674355</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

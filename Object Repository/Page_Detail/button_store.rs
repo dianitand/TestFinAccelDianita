@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_store</name>
+   <tag></tag>
+   <elementGuidId>d0f1b72d-059b-47ee-94e3-1e0c0cab4402</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/gm-product-view-format-store/div/div/div/div[2]/div/ul/li/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.store-content.d-flex.m-bottom.br-matraman.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d56f62a-80e3-4072-b031-38fc21b08281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>store-content d-flex m-bottom br-matraman ng-star-inserted</value>
+      <webElementGuid>7d91f8c1-7789-4de1-843f-61143d7e6332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MatramanJakarta TimurRp 50.000Stok Tersedia</value>
+      <webElementGuid>b55caf84-f608-4272-8520-0082ec477f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/gm-product-view-format-store[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;modal ng-star-inserted&quot;]/div[@class=&quot;modal-wrap ng-star-inserted&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/ul[@class=&quot;list-store&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[1]/button[@class=&quot;store-content d-flex m-bottom br-matraman ng-star-inserted&quot;]</value>
+      <webElementGuid>36e8d539-a400-4c61-81ff-2f925792acbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/gm-product-view-format-store/div/div/div/div[2]/div/ul/li/div/button</value>
+      <webElementGuid>c5acc706-20e5-41d7-9aee-af113107d660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Rekomendasi'])[1]/following::button[1]</value>
+      <webElementGuid>a6eb8acb-3304-46aa-b48d-8c3b81734b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paling Sesuai'])[1]/following::button[1]</value>
+      <webElementGuid>1c0b987b-7784-4dbc-a3f8-e256d2ed562f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/button</value>
+      <webElementGuid>8bf787f3-4e59-443b-91fa-e030c75d55a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'MatramanJakarta TimurRp 50.000Stok Tersedia' or . = 'MatramanJakarta TimurRp 50.000Stok Tersedia')]</value>
+      <webElementGuid>c29c0b78-3956-470c-83e3-1fcf5755d119</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
